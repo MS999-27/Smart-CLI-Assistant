@@ -39,6 +39,7 @@ Execute the main Python script from the project directory:
 ```bash
 python3 smart_cli_assistant.py
 You will be presented with a menu (1-5) to interact with the To-Do Manager
+```
 
 ### Project Files
 
@@ -58,6 +59,19 @@ Shell: zsh
 Editor: nano
 
 Version Control: Git & GitHub
+
+### Screenshot of execution (To-Do Manager & logging)
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 31 PM" src="https://github.com/user-attachments/assets/d2cd6b1c-76c2-49b3-95f1-482fad62a4d5" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 39 PM" src="https://github.com/user-attachments/assets/c6f3a128-e678-47a0-8f1c-379871ad65ef" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 46 PM" src="https://github.com/user-attachments/assets/baae27d0-c040-4b38-866f-a5f3f52ac712" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 52 PM" src="https://github.com/user-attachments/assets/442d5455-3cf7-4964-8f2d-7e4810b42aa9" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 55 PM" src="https://github.com/user-attachments/assets/f17c88f1-f1cf-4c67-88fe-a36516bf383c" />
+
+
+
+
+
+
 
 
 
