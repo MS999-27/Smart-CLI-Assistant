@@ -183,3 +183,10 @@ python3 backup_module.py
 
 ## Screenshots of Execution (Backup)
 
+<img width="677" height="449" alt="image" src="https://github.com/user-attachments/assets/a450741e-a608-4c5f-8ae4-2422cb255a77" />
+<img width="746" height="450" alt="image" src="https://github.com/user-attachments/assets/4975f67f-e45c-4577-ac60-9a06672fb3e5" />
+<img width="995" height="348" alt="image" src="https://github.com/user-attachments/assets/7233c6ca-b57e-45ca-97e0-a06fd27732fd" />
+<img width="750" height="453" alt="image" src="https://github.com/user-attachments/assets/b8ff0754-e789-4966-8bf4-aa70ed8984ca" />
+<img width="678" height="497" alt="image" src="https://github.com/user-attachments/assets/3ad57c74-2f12-4e67-b825-713c611429e1" />
+<img width="1061" height="303" alt="image" src="https://github.com/user-attachments/assets/0e0fc5c0-527b-440c-be6b-8c71c3318143" />
+
