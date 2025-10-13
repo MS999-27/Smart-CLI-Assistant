@@ -8,7 +8,7 @@ This document formally acknowledges the individual contributions made to the Sma
 | Contributor Name | GitHub Username | Primary Contribution |
 | :--- | :--- | :--- |
 | **Mudita Songara** | **MS999-27** | Sole developer and contributor. Designed and implemented the complete To-Do Manager functionality,     
-including the persistent task storage and the real-time action logging feature. |
+                                                       including the persistent task storage and the real-time action logging feature. |
 ### How to Implement This:
 If you still have the previous command in your terminal, run it again to open the file:
 
