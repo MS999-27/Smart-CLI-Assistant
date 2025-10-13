@@ -125,7 +125,7 @@ Tools: Git, GitHub, VS Code
 <img width="1545" height="383" alt="Screenshot 2025-10-12 234546" src="https://github.com/user-attachments/assets/9a6d29e2-0949-453b-80c9-5779e813b0f9" />
 <img width="1874" height="822" alt="Screenshot 2025-10-12 235823" src="https://github.com/user-attachments/assets/88f6b777-1950-41cd-bc6c-d702121251e0" />
 <img width="1889" height="727" alt="Screenshot 2025-10-12 235524" src="https://github.com/user-attachments/assets/09983286-2f3b-4684-a196-3e1d4ebc4aba" />
-![Pull request](https://github.com/user-attachments/assets/3bdd801d-44b4-4422-b296-25a1d7ecc02c)
+<img width="1878" height="391" alt="image" src="https://github.com/user-attachments/assets/64d3b85b-5b7c-4576-9e32-75ca0f656fb5" />
 
 
 
