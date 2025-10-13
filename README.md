@@ -76,22 +76,33 @@ Branch: feature/sys-file
 
 This module is part of the Smart CLI Assistant project.
 It helps users:
-View important System Information (like OS, processor, username, etc.)
+View important System Information (like OS, processor, username, etc.) 
+
 Automatically Organize Files in a given folder based on their file type.
+
 The purpose of this module is to make system management faster and reduce manual effort for organizing files.
 
 ## ⚙️ Features
+
 Displays details such as:
+
 Operating System
+
 OS Version
+
 Machine Architecture
+
 Processor Info
+
 Logged-in User
 
 Organizes files into folders:
 Images → .png, .jpg, .jpeg, .gif
+
 Documents → .pdf, .docx, .txt
+
 Videos → .mp4, .mov, .avi
+
 Others → Remaining file types
 
 Automatically creates folders if they don’t exist.
@@ -99,8 +110,11 @@ Automatically creates folders if they don’t exist.
 Works smoothly from the Linux terminal or VS Code terminal.
 
 ## Technologies Used
+
 Language: Python
+
 Platform: Linux / Windows
+
 Tools: Git, GitHub, VS Code
 
 
