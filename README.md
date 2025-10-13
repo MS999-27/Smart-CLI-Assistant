@@ -59,3 +59,13 @@ Editor: nano
 
 Version Control: Git & GitHub
 
+
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 39 PM" src="https://github.com/user-attachments/assets/c5a52202-98dc-4b00-812d-3e3e868897df" />
+![Uploading Screenshot 2025-10-11 at 8.53.31 PM.png…]()
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 46 PM" src="https://github.com/user-attachments/assets/b75d118f-a239-4dc0-9340-2b21d8cd570d" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 52 PM" src="https://github.com/user-attachments/assets/14d57a0a-059d-45a5-8001-09c61d47cc58" />
+<img width="1470" height="956" alt="Screenshot 2025-10-11 at 8 53 55 PM" src="https://github.com/user-attachments/assets/b1069096-eee8-4966-8856-19cc21f81f26" />
+
+
+
+
