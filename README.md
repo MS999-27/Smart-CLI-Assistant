@@ -117,6 +117,17 @@ Platform: Linux / Windows
 
 Tools: Git, GitHub, VS Code
 
+## Screenshots of Shell Scripts, Automation
+<img width="1878" height="952" alt="Screenshot 2025-10-12 212226" src="https://github.com/user-attachments/assets/ce03bcd8-e91f-4c3d-8d72-aa3d4e4c3035" />
+<img width="1360" height="1073" alt="Screenshot 2025-10-12 234508" src="https://github.com/user-attachments/assets/8c1513c6-6602-4ced-b92e-ec3fed78c983" />
+<img width="1195" height="994" alt="Screenshot 2025-10-12 234520" src="https://github.com/user-attachments/assets/840a0806-a1c5-41c6-a24d-e4593a5aed82" />
+<img width="1242" height="1042" alt="Screenshot 2025-10-12 234534" src="https://github.com/user-attachments/assets/83935e47-5b04-49dc-b727-603a8d442816" />
+<img width="1545" height="383" alt="Screenshot 2025-10-12 234546" src="https://github.com/user-attachments/assets/9a6d29e2-0949-453b-80c9-5779e813b0f9" />
+<img width="1874" height="822" alt="Screenshot 2025-10-12 235823" src="https://github.com/user-attachments/assets/88f6b777-1950-41cd-bc6c-d702121251e0" />
+<img width="1889" height="727" alt="Screenshot 2025-10-12 235524" src="https://github.com/user-attachments/assets/09983286-2f3b-4684-a196-3e1d4ebc4aba" />
+![WhatsApp Image 2025-10-13 at 15 35 24_b5de7d2c](https://github.com/user-attachments/assets/9eab39f6-b2b3-4c74-91b7-6fa78d26e657)
+
+
 
 
 
