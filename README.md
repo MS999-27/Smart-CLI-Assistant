@@ -69,7 +69,7 @@ Version Control: Git & GitHub
 
 ## System Info + File Organizer Module
 
-## Member 2:Swarna Prakash
+**Member 2:** Swarna Prakash
 Branch: feature/sys-file
 
 ## Project Overview
