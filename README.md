@@ -129,13 +129,57 @@ Tools: Git, GitHub, VS Code
 <img width="1878" height="391" alt="image" src="https://github.com/user-attachments/assets/64d3b85b-5b7c-4576-9e32-75ca0f656fb5" />
 
 
+## Backup Module
 
+**Member 3:**  Prachi Sharma
 
+**Branch:** `feature/backup`
 
+The Backup Module allows users to create timestamped backups of any folder in the project directory.
 
+### Usage
 
+1. Open the module:
 
+```bash
+nano backup_module.py
+```
 
+2. Run the module:
 
+```bash
+python3 backup_module.py
+```
 
+3. Example output:
+
+```text
+✅ Backup created at: backups/backup_20251011_194220
+```
+
+### Functionality
+
+* ✅ Checks if the source folder exists.
+* ✅ Creates a `backups/` folder if it doesn’t exist.
+* ✅ Copies all contents of the source folder into a timestamped backup folder.
+* ✅ Prints the backup location after completion.
+
+## Project Overview
+
+**Smart CLI Assistant** is a command-line tool designed to automate repetitive tasks, including file management and backups. The project is modular, enabling multiple contributors to work on different features simultaneously.
+
+## Features
+
+* **Backup Module:** Timestamped folder backups.
+* **File & Folder Management:** Copy, move, and organize files via CLI.
+* **Modular Design:** Easy to add new modules.
+* **Cross-Platform:** Works on Linux/Ubuntu environments.
+
+## Technologies Used
+
+* **Python 3** – Core language for scripting.
+* **Git & GitHub** – Version control and collaboration.
+* **Linux (Ubuntu)** – Development environment.
+
+## Screenshots of Execution (Backup)
 
